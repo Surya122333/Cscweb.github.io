@@ -1,0 +1,53 @@
+ul{
+    /* background:  rgb(218, 221, 215); */
+    border-color: rgb(216, 204, 32);
+    border-style: dashed;
+border-radius: 3px;
+    border-width: 3px;
+    display:flex;
+    align-self: auto;
+    text-align: center;
+    text-justify: initial;
+    color: white;
+}
+   .item{
+        margin: 50px;
+        justify-self: center;
+        color: aliceblue;
+        text-align-last: center;
+        align-self: auto;
+       
+        
+    }
+   
+h1{
+    color: rgb(191, 202, 199);
+    align-self: auto;
+    text-align: center;
+    background-color: rgb(23, 23, 163);
+}
+div{
+    text-align: center;
+   text-decoration-color: blue;
+   align-self: auto;
+}
+#Service-container{
+    /* background-color: rgb(208, 214, 203); */
+    border-color: rgb(216, 204, 32);
+    border-style: dashed;
+    border-width: 3px;
+    align-self: auto;
+
+}
+.Box{
+    border-style: dashed;
+    border-width: 3px;
+    align-self: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.image{
+ width: 300px;
+ height: 300px;
+}
